@@ -21,6 +21,6 @@
 
 <p><img height="140px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nayanjithh&show_icons=true&locale=en&layout=compact" alt="nayanjithh" /></p>
 
-<p>&nbsp;<img height="140px" align="center" src="https://github-readme-stats.vercel.app/api?username=nayanjithh&show_icons=true&locale=en" alt="nayanjithh" /></p>
+<p>&nbsp;<img height="140px" align="right" src="https://github-readme-stats.vercel.app/api?username=nayanjithh&show_icons=true&locale=en" alt="nayanjithh" /></p>
 
 <p align="center"><img height="140px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nayanjithh&" alt="nayanjithh" /></p>
