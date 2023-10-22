@@ -20,4 +20,4 @@
 <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayanjithh&theme=react&show_icons=true&hide_border=true&layout=compact" alt="nayanjithh" />
 <img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=nayanjithh&theme=react&hide_border=true" alt="nayanjithh" /></p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nayanjithh&bg_color=20232a&color=ffffff&line=66deff&point=5bbad2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Nayanjith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nayanjithh&bg_color=20232a&color=ffffff&line=66deff&point=5bbad2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
