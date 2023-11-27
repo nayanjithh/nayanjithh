@@ -25,3 +25,5 @@
   <img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=nayanjithh&theme=react&hide_border=true" alt="nayanjithh" />
   <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="170">
 </p>
+
+[![An image of @nayanjithh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/naynjithh)](https://holopin.io/@nayanjithh)
