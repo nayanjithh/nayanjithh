@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **React, Data Structure, JavaScript, Web development, Java**
 - 📫 How to reach me **nayanjithajith@gmail.com**
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" style="width:100%" />
+<img align="right" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" style="width: 20rem" />
 
 <div style="word-wrap: normal;">
 <p><h3 align="left">Connect with me:</h3>
