@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Nayanjith</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **React, Data Structure, JavaScript, Web development, Java**
+- 🌱 I’m currently learning **React, Data Structure, JavaScript, Web development, Java, Flutter**
 - 📫 How to reach me **nayanjithajith@gmail.com**
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" style="width: 20rem" />
